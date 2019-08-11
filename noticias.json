@@ -3,21 +3,21 @@
     "uid": "blog1",
     "updateDate": "2019-08-12T06:00:00.0Z",
     "titleText": "Microchess: noticias 12 agosto",
-    "mainText": "Esto es microchess, un micropodcast en Alexa para noticias diarias de ajedrez",
-    "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
-  },
-  {
-    "uid": "blog2",
-    "updateDate": "2019-08-12T06:00:00.0Z",
-    "titleText": "Microchess: noticias 12 agosto",
     "mainText": "Anand ha quedado segundo en la copa del mundo de rápidas",
     "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
    },
   {
-    "uid": "blog3",
+    "uid": "blog2",
     "updateDate": "2019-08-12T06:00:00.0Z",
     "titleText": "Microchess: noticias 12 agosto",
     "mainText": "Campeonato de europa infantil, gana Asimov",
     "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
-   }
+   },
+   {
+    "uid": "end",
+    "updateDate": "2019-08-12T06:00:00.0Z",
+    "titleText": "Microchess: noticias 12 agosto",
+    "mainText": "Esto es microchess, un micropodcast en Alexa para noticias diarias de ajedrez, gracias por tu atención y ¡hasta mañana!",
+    "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
+  }
 ]
