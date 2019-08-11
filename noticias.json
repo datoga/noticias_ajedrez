@@ -2,7 +2,7 @@ Content-Type: application/json
 ...
 {
   "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
-  "updateDate": "2019-08-11T13:00:00.0Z",
+  "updateDate": "2019-08-11T10:00:00.0Z",
   "titleText": "Noticias semana 5-11 agosto",
   "mainText": "Esto es noticias de ajedrez, un microblog en Alexa para noticias semanales de ajedrez"
 }
