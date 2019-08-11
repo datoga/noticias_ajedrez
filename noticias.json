@@ -1,5 +1,3 @@
-Content-Type: application/json
-...
 {
   "uid": "blog1",
   "updateDate": "2019-08-11T10:00:00.0Z",
