@@ -1,22 +1,28 @@
 [
   {
-    "uid": "blog1",
-    "updateDate": "2019-08-12T05:29:00.0Z",
-    "titleText": "Microchess: noticias 12 agosto",
-    "mainText": "Torneo de San Luis, Aronian mantiene el liderato. Aronian sigue líder en el Gran Chess Tour de rápidas de San Luis después de haber ganado una partida con negras a Carlsen y haber hecho dos tablas. Carlsen, por su parte, además de la derrota con Aronian en un sistema Colle, perdió con Caruana con negras en un sistema Rossollimo y se salvó por los pelos contra Yu Yangyi. Destacar que Vachier-Lagrave recupera posiciones después de 3 victorias consecutivas, poniéndose segundo a un solo punto de Levon Aronian. Mañana se jugará la tercera jornada, con un Magnus que parece muy cansado después de las actuaciones estelares de los últimos meses. A las 20.00 hora de Madrid podrás disfrutar de la retransmisión del torneo en tu plataforma favorita. A destacar la primera partida, que enfrenta a Magnus Carlsen con Vachier-Lagrave, ¿será capaz Carlsen de sacar su Alpha Zero interior para remontar?",
+    "uid": "blog20190813_1",
+    "updateDate": "2019-08-13T06:00:00.0Z",
+    "titleText": "Microchess: noticias 13 agosto",
+    "mainText": "Torneo de San Luis, Aronian y Vachier-Lagrave, vencedores del torneo de rápidas. Aunque Carlsen ganó su enfrentamiento particular a Vachier-Lagrave, en seguida volvió a desinflarse después de perder claramente con Sergei Karjakin y acabar sufriendo ante Mamedyarov. Vachier, por su parte, se repuso de su derrota con Magnus, y venció las dos últimas partidas, colocándose primero en el torneo junto a Levon Aronian, que, aunque ganó a Fabiano Caruana, perdió con Rapport y firmó unas tablas más. Hoy comienza el torneo de blitz, con Vachier-Lagrave como máximo favorito. Puedes disfrutarlo online en tu plataforma favorita a partir de las 8 de la tarde hora española.",
+    "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
+   },
+    "uid": "blog20190813_2",
+    "updateDate": "2019-08-13T06:00:01.0Z",
+    "titleText": "Microchess: noticias 13 agosto",
+    "mainText": "Vachier-Lagrave número uno mundial de rápidas. Con su gran torneo en San Luis, donde sube 24 puntos de ELO, Vachier se coloca primero en el ranking mundial de rápidas con 2866 puntos, superando a Carlsen, que ha realizado una actuación muy discreta, perdiendo nada menos que 40 puntos y quedándose en 2855. Tercero, por su parte, y a una gran distancia de sus dos competidores, se mantiene Nakamura, que tiene 2807 puntos.",
     "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
    },
   {
-    "uid": "blog2",
-    "updateDate": "2019-08-12T06:00:00.0Z",
-    "titleText": "Microchess: noticias 12 agosto",
-    "mainText": "Torneo jugando con las estrellas en la Palma. Estamos en verano, época de torneos y las canarias, centro astronómico mundial con su gran telescopio, celebra la vista de las Perseidas a nuestro planeta con el cuarto torneo internacional Jugando con las Estrellas. Este torneo se disputa del 9 al 16 de agosto en Santa Cruz, en la isla de la Palma y dispone de una gran cantidad de actividades paralelas, como jornadas de tecnificación, senderismo, o una visita al observatorio astrofísico. Por la parte ajedrecística, cuenta con la participación de 22 titulados internacionales y más de 100 ajedrecistas de 12 nacionalidades diferentes, destacando los jugadores Zbigniew Pakleza, Bojan Kurajica y el español José Garcia Padron",
+    "uid": "blog20190813_3",
+    "updateDate": "2019-08-13T06:00:02.0Z",
+    "titleText": "Microchess: noticias 13 agosto",
+    "mainText": "Torneo jugando con las estrellas en la Palma. Estamos en verano, época de torneos y las canarias, centro astronómico mundial con su gran telescopio, celebra la vista de las Perseidas a nuestro planeta con el cuarto torneo internacional Jugando con las Estrellas. Este torneo se disputa del 9 al 16 de agosto en Santa Cruz, en la isla de la Palma y dispone de una gran cantidad de actividades paralelas, como jornadas de tecnificación, senderismo, o una visita al observatorio astrofísico. Por la parte ajedrecística, cuenta con la participación de 22 titulados internacionales y más de 100 ajedrecistas de 12 nacionalidades diferentes, destacando los jugadores Zbigniew Pakleza, Bojan Kurajica y el español José Garcia Padron.",
     "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
    },
    {
-    "uid": "end",
-    "updateDate": "2019-08-12T06:00:00.0Z",
-    "titleText": "Microchess: noticias 12 agosto",
+    "uid": "blog20190813_end",
+    "updateDate": "2019-08-13T06:30:00.0Z",
+    "titleText": "Microchess: noticias 13 agosto",
     "mainText": "Esto es microchess, un micropodcast en Alexa para noticias diarias de ajedrez, gracias por tu atención y ¡hasta mañana!",
     "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
   }
