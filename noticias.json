@@ -1,9 +1,16 @@
 [
   {
-    "uid": "blog20190814_1",
-    "updateDate": "2019-08-14T06:00:00.0Z",
-    "titleText": "Microchess: noticias 14 agosto",
-    "mainText": "Torneo de San Luis, Vachier-Lagrave, se pone por delante de Aronian. Aunque Vachier-Lagrave comenzó con dos derrotas consecutivas, se coloca líder en solitario tras ganar a Aronian en la última ronda. Hoy se disputará la segunda vuelta del torneo relámpago, que podrás disfrutarlo online en tu plataforma favorita a partir de las 8 de la tarde hora española.",
+    "uid": "blog20190816_1",
+    "updateDate": "2019-08-16T06:00:00.0Z",
+    "titleText": "Microchess: noticias 16 agosto",
+    "mainText": "Torneo de San Luis, Aronian vencedor. Aronian, después de una gran primera parte y haber conseguido el 50% de los puntos en el relámpago, se proclama vencedor. Vachier-Lagrave, que estuvo líder durante gran parte del relámpago, pero perdió finalmente varias partidas, quedando en el grupo perseguidor empatado con los chinos Liren Ding y Yangyi Yu. Finalmente, Magnus Carlsen, consigue el sexto lugar, un lugar muy discreto para él, donde se puede ver que está acusando el cansancio de los últimos torneos. Pierde además el liderato mundial por ELO en el relámpago después de perder nada menos que 64 puntos, donde Nakamura, que curiosamente no jugaba el torneo, queda por ahora como líder.",
+    "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
+   },
+  {
+    "uid": "blog20190816_2",
+    "updateDate": "2019-08-16T06:01:00.0Z",
+    "titleText": "Microchess: noticias 16 agosto",
+    "mainText": "Próximo torneo de Sinquefield Cup. Sin casi tiempo para descansar, mañana arranca el gran torneo de Sinquefield Cup, continuación del torneo de San Luis, pero esta vez a partidas lentas. En este nuevo supertorneo que se disputará también en San Luis, Missouri, se jugará una liga a una vuelta con gran parte de los jugadores que han jugado el torneo de rápidas, más otros de la élite mundial, como Nakamura o Anand. El máximo favorito, como siempre, es Magnus Carlsen, aunque tengamos incertidumbre en su estado de forma después de su discreto sexto puesto en el torneo de rápidas. Como siempre, Fabiano Caruana, Liren Ding, Anish Giri, Maxime Vachier-Lagrave, o el propio Aronian, vencedor en el torneo de rápidas, no se lo pondrán nada fácil a Magnus.",
     "redirectionUrl": "https://datoga.github.io/noticias_ajedrez"
    },
    {
